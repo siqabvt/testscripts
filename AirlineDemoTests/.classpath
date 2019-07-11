@@ -3,7 +3,7 @@
 	<classpathentry kind="src" output="code/classes" path="code/source"/>
 	<classpathentry kind="src" output="resources/test/classes" path="resources/test/source"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="com.sag.gcs.wmtestsuite.runtime.WmTestSuiteContainer/1/1/1/1/1"/>
+	<classpathentry kind="con" path="com.sag.gcs.wmtestsuite.runtime.WmTestSuiteContainer/1/1/1/1/0"/>
 	<classpathentry kind="var" path="IS_CLIENT"/>
 	<classpathentry kind="var" path="IS_MAIL"/>
 	<classpathentry kind="var" path="IS_SERVER"/>
