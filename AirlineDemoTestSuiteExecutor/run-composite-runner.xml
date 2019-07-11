@@ -79,7 +79,7 @@ h. webMethods.test.setup.external.classpath.layout= this property suggests the i
 		<taskdef uri="antlib:net.sf.antcontrib" resource="net/sf/antcontrib/antlib.xml" classpathref="classpath.all" />
 		<basename property="current.project" file="${basedir}" />
 
-		<antcall target="start-is" />
+		<!--<antcall target="start-is" />-->
 
 		<mkdir dir="${test.reports.dir}" />
 		<junit printsummary="yes" haltonfailure="no" fork="true" failureproperty="test:failure" showoutput="true" dir="${basedir}">
